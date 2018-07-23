@@ -1,0 +1,33 @@
+body{
+	background: #adaeb2
+}
+
+button {
+    background-color: #4f546b; 
+    border: none;
+    color: white;
+    padding: 1em 2em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    width: 100%;
+    margin-bottom: 1em;
+    cursor: pointer;
+}
+
+.bacon1{
+	display: none;
+}
+.bacon2{
+	display: none;
+}
+
+.bacon3{
+	display: none;
+}
+
+
+.onclick{
+
+}
